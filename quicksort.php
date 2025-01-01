@@ -15,7 +15,6 @@ function quicksort(array &$array, int $esquerda, int $direita): void
             $j--;
         }
     } while ($i <= $j);
-    // Recursividade
     if ($esquerda < $j)
         quicksort($array, $esquerda, $j);
     if ($direita > $i)
