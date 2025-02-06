@@ -1,7 +1,7 @@
-# Descrição
+# <img src="https://github.com/user-attachments/assets/caabfdf0-0f9e-44a3-8200-c6579fe87887" alt="ícone de descrição" width="28"> Descrição
 Essa tarefa visa analisar o desempenho entre dois métodos de ordenação populares, o Bubblesort e o Quicksort.
 
-# Métodos
+# <img src="https://github.com/user-attachments/assets/a1868e32-77a5-4d27-b653-b97d859ba1a2" alt="ícone do PHP" width="32"> Métodos
 ## 1. Bubblesort
 ### Características
 - No melhor caso, o número de comparações é LINEAR (C(n) = O(n)) e o de movimentações é ZERO (M(n) = 0);
